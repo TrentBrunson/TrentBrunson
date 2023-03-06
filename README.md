@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentBrunson&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentBrunson&count_private=true) -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=TrentBrunson&show_icons=true&count_private=true&include_all_commits=true">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-y%C3%BCce-98a9a013b/](https://www.linkedin.com/in/trent-brunson/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trent-brunson/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hold@gmail.com)](mailto:hold@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrentBrunson)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentBrunson&layout=compact&theme=buefy&hide_border=true">
+
+### About me
+<a href="https://github.com/TrentBrunson/TrentBrunson.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrentBrunson&repo=TrentBrunson.github.io" />
+</a>
