@@ -1,4 +1,5 @@
-### Hi there 👋
+### Thanks for stopping by.
+#### I am a scientist, veteran combat pilot, and enthusiast for anything geek.  Now bringing mad research physicist skills and nerves of steel to Machine Learning and Big Data.
 
 <!--
 **TrentBrunson/TrentBrunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentBrunson&layout=compact&theme=buefy&hide_border=true">
 
-### About me
+<!-- ### About me
 <a href="https://github.com/TrentBrunson/TrentBrunson.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrentBrunson&repo=TrentBrunson.github.io" />
-</a>
+</a> -->
