@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentBrunson)](https://github.com/anuraghazra/github-readme-stats)
+[![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentBrunson&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-y%C3%BCce-98a9a013b/](https://www.linkedin.com/in/trent-brunson/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hold@gmail.com)](mailto:hold@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrentBrunson)
