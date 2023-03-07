@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentBrunson&layout=compact&theme=buefy&hide_border=true">
 
-<!-- ### About me
+### About me
 <a href="https://github.com/TrentBrunson/TrentBrunson.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrentBrunson&repo=TrentBrunson.github.io" />
-</a> -->
+</a>
