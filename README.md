@@ -1,5 +1,5 @@
 ### Thanks for stopping by.
-#### I am a scientist, veteran combat pilot, and enthusiast for anything geek.  Now bringing mad research physicist skills and nerves of steel to Machine Learning and Big Data.
+#### I am a scientist, veteran combat pilot, and enthusiast for anything geek.  Now bringing mad-research-physicist-skills and nerves of steel to Machine Learning and Big Data.
 
 <!--
 **TrentBrunson/TrentBrunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
